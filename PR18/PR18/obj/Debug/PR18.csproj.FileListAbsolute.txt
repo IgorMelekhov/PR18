@@ -1,0 +1,8 @@
+D:\Users\1213-2\Documents\2-ИСП\Новая папка\PR18\PR18\bin\Debug\PR18.exe.config
+D:\Users\1213-2\Documents\2-ИСП\Новая папка\PR18\PR18\bin\Debug\PR18.exe
+D:\Users\1213-2\Documents\2-ИСП\Новая папка\PR18\PR18\bin\Debug\PR18.pdb
+D:\Users\1213-2\Documents\2-ИСП\Новая папка\PR18\PR18\obj\Debug\PR18.csproj.AssemblyReference.cache
+D:\Users\1213-2\Documents\2-ИСП\Новая папка\PR18\PR18\obj\Debug\PR18.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-2\Documents\2-ИСП\Новая папка\PR18\PR18\obj\Debug\PR18.csproj.CoreCompileInputs.cache
+D:\Users\1213-2\Documents\2-ИСП\Новая папка\PR18\PR18\obj\Debug\PR18.exe
+D:\Users\1213-2\Documents\2-ИСП\Новая папка\PR18\PR18\obj\Debug\PR18.pdb
